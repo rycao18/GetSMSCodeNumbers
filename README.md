@@ -8,15 +8,15 @@ Check if getSMSCode has issued the same number to a different person.
 ### /check
 #### Checks if number is in the database
 ##### Parameters
-..* number : Number to check against the database
+  * number : Number to check against the database
 ##### Returns
-..* Returns a string with 3 possible error codes and a description of the result
+  * Returns a string with 3 possible error codes and a description of the result
 ### /register
 #### Adds number to database
 ##### Parameters
-..* number : Number to add to database
+  * number : Number to add to database
 ##### Returns
-..* Returns a string with 3 possible error codes and a description of the result
+  * Returns a string with 3 possible error codes and a description of the result
 
 -------------------
 
