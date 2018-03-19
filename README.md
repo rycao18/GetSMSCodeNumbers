@@ -24,7 +24,6 @@ Check if getSMSCode has issued the same number to a different person.
   * Code 1: Number already exists in the database
 -------------------
 
-## Examples
-Examples can be found as test.js and test2.js in the repository. 
+## Examples can be found as test.js and test2.js in the repository. 
 ------------------------
 Currently being hosted on http://rycooks.com for Chinese phone numbers (must have 86 at the beginning) for Nike Accounts :)
