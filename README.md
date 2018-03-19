@@ -18,6 +18,11 @@ Check if getSMSCode has issued the same number to a different person.
 ##### Returns
   * Returns a string with 3 possible error codes and a description of the result
 
+## Error Codes
+  * Code -1: Number does not have 86 at the front
+  * Code 0: Number does not exist in database
+  * Code 1: Number already exists in the database
 -------------------
+
 
 Currently being hosted on http://rycooks.com for Chinese phone numbers (must have 86 at the beginning) for Nike Accounts :)
